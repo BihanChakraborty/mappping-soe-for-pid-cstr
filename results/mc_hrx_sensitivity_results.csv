@@ -1,0 +1,3 @@
+case,dHrx_kJ_per_kmol,Tmax_K,safe_scenarios,total_scenarios,safe_fraction,classification_changes,source
+DIPPR (DWSIM),-50286,391.83,491,500,98.2%,,Manuscript Section 5.1.3.2
+Garcia-Hernandez et al. (2019),-60000,403.77,480,500,96.0%,11 scenarios,Manuscript Section 5.1.3.2

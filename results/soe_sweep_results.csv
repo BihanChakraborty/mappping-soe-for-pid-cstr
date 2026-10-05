@@ -1,0 +1,7 @@
+record_type,case,T0_range_K,Ca0_kmol_m3,Tc_supply_range_K,total_points,safe_points,unsafe_points,safe_fraction,source
+aggregate,DIPPR baseline,293-350,3.8-6.3,288-320,729,594,135,81.5%,Manuscript Section 5.1.2
+representative_slice,low Ca0,293-350,3.8,288-320,81,81,0,100%,Manuscript Figure 5.1a and Section 5.1.2.1
+representative_slice,nominal Ca0,293-350,5.05,288-320,81,63,18,77.8%,Manuscript Figure 5.1b and Section 5.1.2.1
+representative_slice,high Ca0,293-350,6.3,288-320,81,54,27,66.7%,Manuscript Figure 5.1c and Section 5.1.2.1
+aggregate,Garcia-Hernandez heat of reaction,293-350,3.8-6.3,288-320,729,549,180,75.3%,Manuscript Section 5.1.2.2
+classification_change,DIPPR to literature ΔHrx,293-350,3.8-6.3,288-320,729,45,0,6.2% changed from SAFE to UNSAFE,Manuscript Section 5.1.2.2
