@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use the code, model, documentation, or other research materials in this repository, please cite this repository."
+title: "Mapping the Safe Operating Envelope of a PID-Controlled Exothermic CSTR under Simultaneous Kinetic Uncertainty and Disturbance"
+version: "1.0.0"
+type: software
+authors:
+  - family-names: Chakraborty
+    given-names: Bihan
+    email: bihanchakrabortyofficial@gmail.com
+keywords:
+  - Safe Operating Envelope
+  - Exothermic CSTR
+  - PID Control
+  - Process Safety
+  - Thermal Runaway
+  - Kinetic Uncertainty
+  - External Disturbances
+  - Dynamic Simulation
+  - Monte Carlo Simulation
+  - Probabilistic Safety Mapping
+  - Deterministic Safety Mapping
+  - Nonlinear Process Control
+license: CC-BY-4.0
+abstract: >-
+  Computational archive for a simulation-based study mapping the Safe Operating Envelope of a PID-controlled exothermic continuous stirred-tank reactor under simultaneous kinetic uncertainty and external disturbances. The archive contains the Python implementation, DWSIM simulation archive, original manuscript, reproducibility documentation, and integrity metadata.
